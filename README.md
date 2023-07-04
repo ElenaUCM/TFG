@@ -1,4 +1,4 @@
-# Códigos en Dafny
+# Algoritmos en Dafny
 
 En este repositorio se encuentran los códigos de los algoritmos de la división entera y la suma de las componentes de un vector en sus versiones iterativa y recursiva, además del algoritmo iterativo de la ordenación por selección.
 
