@@ -1,6 +1,6 @@
 # Códigos en Dafny
 
-En este repositorio se encuentran los distintos códigos de los algoritmos verificados en el Capítulo 5 del TFG.
+En este repositorio se encuentran los códigos de los algoritmos de la división entera y la suma de las componentes de un vector en sus versiones iterativa y recursiva, además del algoritmo iterativo de la ordenación por selección.
 
 Se puede proceder a su ejecución para comprobar su corrección, así como cambiar los datos de las funciones de prueba.
 
